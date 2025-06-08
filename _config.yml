@@ -1,0 +1,8 @@
+title: 3treees
+baseurl: ""
+url: "https://criptocrata.github.io"
+collections:
+  posts:
+    output: true
+plugins:
+  - jekyll-feed
